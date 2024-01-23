@@ -2,7 +2,7 @@
 title: "Are Shootings in Toronto on a Rise? An Exploration of Homicide Trends in Toronto"
 author: 
   - Sakhil Goel
-thanks: "Code and data are available at: LINK."
+thanks: "Code and data are available at: https://github.com/Sakhil-Goel/Toronto-Homicide-Trends-Exploration.git."
 date: today
 date-format: long
 abstract: "First sentence. Second sentence. Third sentence. Fourth sentence."
