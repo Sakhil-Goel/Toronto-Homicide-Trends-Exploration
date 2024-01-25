@@ -1,11 +1,11 @@
 #### Preamble ####
-# Purpose: Cleans the raw plane data recorded by two observers..... [...UPDATE THIS...]
-# Author: Rohan Alexander [...UPDATE THIS...]
-# Date: 6 April 2023 [...UPDATE THIS...]
-# Contact: rohan.alexander@utoronto.ca [...UPDATE THIS...]
+# Purpose: Cleans the raw homicide data into relevant columns
+# Author: Sakhil Goel
+# Date: 23 January 2024
+# Contact: s.goel@mail.utoronto.ca
 # License: MIT
-# Pre-requisites: [...UPDATE THIS...]
-# Any other information needed? [...UPDATE THIS...]
+# Pre-requisites: NONE
+# This code has not been created by Sakhil Goel. Changes have not been made yet.
 
 #### Workspace setup ####
 library(tidyverse)
