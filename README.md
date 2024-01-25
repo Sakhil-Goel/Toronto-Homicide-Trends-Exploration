@@ -1,9 +1,13 @@
-# Starter folder
+# Are Shootings in Toronto on a Rise? An Exploration of Toronto Homicide Trends
 
-## Overview
+## Overview of Paper
 
 This paper explores and analyzes the homicide trends in Toronto from 2004 to 2020. Specifically, method of homicide,
 areas most effected and the rates of homicide throughout the years.
+
+This repo can be used to reproduce this work.
+
+Statement on LLM usage: Aspects of the code were written with the help of ChatGPT-3.5. The entire chat history is available in `inputs/llms/usage.txt`
 
 ## File Structure
 
