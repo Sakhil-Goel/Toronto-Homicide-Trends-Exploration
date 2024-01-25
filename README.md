@@ -1,6 +1,6 @@
-# Starter folder
+# Are Shootings in Toronto on a Rise? An Exploration of Homicide Trends in Toronto
 
-## Overview
+## Overview of Paper
 
 This paper explores and analyzes the homicide trends in Toronto from 2004 to 2020. Specifically, method of homicide,
 areas most effected and the rates of homicide throughout the years.
