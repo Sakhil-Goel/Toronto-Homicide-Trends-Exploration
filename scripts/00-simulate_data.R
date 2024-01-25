@@ -31,6 +31,21 @@ simulated_data <-
     )
 )
 
-# View and save the data
 head(simulated_data)
+
+# Test for valid homicide_type
+simulated_data$homicide_type |> unique() == c("Shooting", "Stabbing", "Other")
+
+# Test that year is between 2004 and 2020
+simulated_data$year |> min() == 2004
+simulated_data$year |> max() == 2020
+
+# Test that there are 1000 data points
+simulated_data$year |> length() == 1000
+
+# Test that neighbourhood is between 1 and 140
+simulated_data$neighbourhood |> min() == 1
+simulated_data$neighbourhood |> max() == 140
+
+
 write_csv(simulated_data, "inputs/data/simulated_homicide_data.csv") 
