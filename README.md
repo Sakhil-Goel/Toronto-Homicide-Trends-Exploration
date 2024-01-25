@@ -1,4 +1,4 @@
-# Are Shootings in Toronto on a Rise? An Exploration of Homicide Trends in Toronto
+# Are Shootings in Toronto on a Rise? An Exploration of Toronto Homicide Trends
 
 ## Overview of Paper
 
