@@ -32,6 +32,6 @@ data
 
 #### Save data ####
 
-write_csv(data, "inputs/data/unedited_data.csv") 
+write_csv(data, "inputs/data/unedited_homicide_data.csv") 
 
          
